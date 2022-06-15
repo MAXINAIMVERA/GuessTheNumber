@@ -1,0 +1,20 @@
+.hidden {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#text {
+    margin-top: 3em;
+}
+
+#start {
+    margin-bottom: 3em;
+}
+
+#userInput {
+    margin-right: 2em;
+}
